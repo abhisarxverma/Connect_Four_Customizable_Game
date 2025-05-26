@@ -160,3 +160,83 @@
   5  |   |   |   |   |   |
      X~~~X~~~X~~~X~~~X~~~X
 ```
+
+## 2. Let The Two players select their names and Board sign
+```python
+WELCOME TO THE CONNECT FOUR 😎 GAME.
+
+Do you want to Select Player names: yes
+
+Enter Player X's name: Chris
+Enter Player O's name: John
+
+🤝 Chris 🆚 John
+
+
+Do you want to Select Your own signs instead of X and O? : yes
+Enter Chris's sign : C
+Enter John's Sign : J
+
+🤝 Let's Gooo......
+
+PLAYER Chris : C 
+PLAYER John : J
+
+
+Let's start the Game ⚔️ ⚔️ ⚔️.
+
+       1   2   3   4   5   
+     +---+---+---+---+---+
+  1  |   |   |   |   |   |
+     +---+---+---+---+---+
+  2  |   |   |   |   |   |
+     +---+---+---+---+---+
+  3  |   |   |   |   |   |
+     +---+---+---+---+---+
+  4  |   |   |   |   |   |
+     +---+---+---+---+---+
+  5  |   |   |   |   |   |
+     +---+---+---+---+---+
+
+👉 It's Chris's Turn
+
+Row number: 4
+Column number: 2
+
+       1   2   3   4   5
+     +---+---+---+---+---+
+  1  |   |   |   |   |   |
+     +---+---+---+---+---+
+  2  |   |   |   |   |   |
+     +---+---+---+---+---+
+  3  |   |   |   |   |   |
+     +---+---+---+---+---+
+  4  |   | C |   |   |   |
+     +---+---+---+---+---+
+  5  |   |   |   |   |   |
+     +---+---+---+---+---+
+
+👉 It's John's Turn
+
+Row number: 3
+Column number: 2
+
+       1   2   3   4   5
+     +---+---+---+---+---+
+  1  |   |   |   |   |   |
+     +---+---+---+---+---+
+  2  |   |   |   |   |   |
+     +---+---+---+---+---+
+  3  |   | J |   |   |   |
+     +---+---+---+---+---+
+  4  |   | C |   |   |   |
+     +---+---+---+---+---+
+  5  |   |   |   |   |   |
+     +---+---+---+---+---+
+
+👉 It's Chris's Turn
+
+Row number:
+```
+
+JUST TRID TO CODE BETTER THAN BEFORE, THANKS FOR SEEING.
